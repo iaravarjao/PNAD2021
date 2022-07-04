@@ -1,5 +1,5 @@
 # Pesquisa Nacional de Saúde / 2020
-Visualização de dados do IBGE
+:bar_chart: Visualização de dados do IBGE
 
 No meu primeiro projeto pessoal de análise de dados, faço um relatório para análise descritiva da Pesquisa Nacional de Saúde - PNS sobre as condições de saúde da população brasileira em relação à doenças crônicas não transmissíveis (DCNT) e acesso a planos de saúde médicos. Os dados apresentados são de pessoas de 18 anos ou mais de idade com pelo menos um diagnóstico médico de DCNT, com período de referência de 01/01/2019 a 31/12/2019 e foi publicada em 2020 (disponível em URL https://sidra.ibge.gov.br/pesquisa/pns, acesso em jun/2022).
 
