@@ -10,3 +10,5 @@ Mais de 2 milhões pessoas, que referiram ter hipertensão, realizaram última c
 Qualquer dúvida sobre a elaboração do relatório estou à disposição.
 
 Se cuidem! :wink:
+
+[Link para visualização do relatório](https://github.com/iaravarjao/PNS-2020/blob/main/report_pns.png)
